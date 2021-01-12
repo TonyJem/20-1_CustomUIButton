@@ -1,5 +1,5 @@
 import UIKit
 
-class CircleButton: UIButton {
+@IBDesignable class CircleButton: UIButton {
 
 }
