@@ -13,7 +13,6 @@
 		3A81B39A25AE4BDA006501D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A81B39825AE4BDA006501D6 /* Main.storyboard */; };
 		3A81B39C25AE4BDC006501D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A81B39B25AE4BDC006501D6 /* Assets.xcassets */; };
 		3A81B39F25AE4BDC006501D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A81B39D25AE4BDC006501D6 /* LaunchScreen.storyboard */; };
-		3A81B3A825AE4C4A006501D6 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A81B3A725AE4C4A006501D6 /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		3A81B39B25AE4BDC006501D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A81B39E25AE4BDC006501D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A81B3A025AE4BDC006501D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3A81B3A725AE4C4A006501D6 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +60,6 @@
 				3A81B39425AE4BDA006501D6 /* SceneDelegate.swift */,
 				3A81B39625AE4BDA006501D6 /* ViewController.swift */,
 				3A81B39825AE4BDA006501D6 /* Main.storyboard */,
-				3A81B3A725AE4C4A006501D6 /* RoundButton.swift */,
 				3A81B39B25AE4BDC006501D6 /* Assets.xcassets */,
 				3A81B39D25AE4BDC006501D6 /* LaunchScreen.storyboard */,
 				3A81B3A025AE4BDC006501D6 /* Info.plist */,
@@ -140,7 +137,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A81B3A825AE4C4A006501D6 /* RoundButton.swift in Sources */,
 				3A81B39725AE4BDA006501D6 /* ViewController.swift in Sources */,
 				3A81B39325AE4BDA006501D6 /* AppDelegate.swift in Sources */,
 				3A81B39525AE4BDA006501D6 /* SceneDelegate.swift in Sources */,
